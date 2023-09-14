@@ -16,7 +16,12 @@ The Currency Converter App is a desktop application built with Electron.js and R
 - Tailwind CSS
 - [Exchange Rate API](https://www.exchangerate-api.com/docs/overview)
 
-<img src="images/screenshot.jpeg">
+## MacOS
+  <img src="images/screenshot.jpeg" alt="Image 1">
+  
+## Windows
+  <img src="images/windows.png" alt="Image 2">
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:

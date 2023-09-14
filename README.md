@@ -35,7 +35,7 @@ Follow these steps to set up and run the Currency Converter project on your loca
 
 1. Clone the repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone https://github.com/mahima-uz/currency_convertor.git
 ```
 
 2. Change to the project directory:

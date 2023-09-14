@@ -9,14 +9,14 @@ The Currency Converter App is a desktop application built with Electron.js and R
 - Support for a wide range of currencies.
 - Cross-platform compatibility (Windows, macOS, Linux).
 
-## Technology Stack
+## Technology Stack <img src='images/electron (2).png' width="48px" padding="10px"> <img src='images/react (2).png' width="48px" padding="10px"> <img src='images/tailwind (2).png' width="48px" padding="10px">
 
-- Electron.js<img src='images/electron.png'>
+- Electron.js 
 - React
 - Tailwind CSS
 - [Exchange Rate API](https://www.exchangerate-api.com/docs/overview)
 
-
+<img src="images/screenshot.jpeg">
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:

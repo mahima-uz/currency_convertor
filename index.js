@@ -11,8 +11,10 @@ const createWindow = () => {
     height: 600,
     webPreferences: {
       preload:path.join(__dirname, 'preload.js')
-    }
+    },
+    title: 'Currency Convertor'
   })
+
 
   // and load the index.html of the app.
   mainWindow.loadURL("http://localhost:3000")

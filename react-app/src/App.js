@@ -47,7 +47,7 @@ function App() {
         <div className="result text-3xl py-10">{result}</div>
         <div className="flex flex-wrap -mx-4">
           <div className="w-full mt-4 px-4 mb-4 md:mb-0">
-            <label htmlFor="amount" className="block">Amount:</label>
+            <label htmlFor="amount" className="block text-left">Amount:</label>
             <input
               type="number"
               value={amount}

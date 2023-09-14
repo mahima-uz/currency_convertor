@@ -57,7 +57,7 @@ function App() {
             />
           </div>
           <div className="w-full md:w-1/2 px-4 mt-4">
-            <label htmlFor="fromCurrency" className="block">From Currency:</label>
+            <label htmlFor="fromCurrency" className="block text-left">From Currency:</label>
             <select
               id="fromCurrency"
               value={fromCurrency}
@@ -74,7 +74,7 @@ function App() {
             </select>
           </div>
           <div className="w-full md:w-1/2 px-4 mt-4">
-            <label htmlFor="toCurrency" className="block">To Currency:</label>
+            <label htmlFor="toCurrency" className="block text-left">To Currency:</label>
             <select
               id="toCurrency"
               value={toCurrency}

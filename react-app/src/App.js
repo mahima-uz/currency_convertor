@@ -7,7 +7,7 @@ function App() {
   const [result, setResult] = useState(0);
   const [fromCurrency, setFromCurrency] = useState('');
   const [toCurrency, setToCurrency] = useState('');
-  const [amount, setAmount] = useState(0);
+  const [amount, setAmount] = useState();
   console.log(currencies)
   const fetchData = async () => {
     try {
